@@ -1,0 +1,6 @@
+artifact_location: file:///Users/macbookpro/Documents/Backup%20May%20Baemin/baemin/khang-di-pha-phach/doctor_anywhere/mlruns/116774863562080651
+creation_time: 1704132980202
+experiment_id: '116774863562080651'
+last_update_time: 1704132980202
+lifecycle_stage: active
+name: Hyperparam Search XGBoost - Stroke Detection

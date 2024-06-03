@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/macbookpro/Documents/Backup%20May%20Baemin/baemin/khang-di-pha-phach/doctor_anywhere/mlruns/116774863562080651/235c742a14084913a9f75afb11de13cf/artifacts
+end_time: 1704132984001
+entry_point_name: ''
+experiment_id: '116774863562080651'
+lifecycle_stage: active
+run_id: 235c742a14084913a9f75afb11de13cf
+run_name: inital_search_for_params
+run_uuid: 235c742a14084913a9f75afb11de13cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704132983798
+status: 3
+tags: []
+user_id: macbookpro

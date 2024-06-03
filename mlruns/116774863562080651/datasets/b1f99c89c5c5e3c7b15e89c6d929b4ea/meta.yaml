@@ -1,0 +1,9 @@
+digest: 87f81ed6
+name: validation_1
+profile: '{"features_shape": [809, 7], "features_size": 5663, "features_nbytes": 22652}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 7]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "macbookpro", "mlflow.source.name": "/Users/macbookpro/Documents/Backup
+  May Baemin/baemin/khang_venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

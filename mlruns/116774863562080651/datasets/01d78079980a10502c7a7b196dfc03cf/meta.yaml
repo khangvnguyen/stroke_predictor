@@ -1,0 +1,10 @@
+digest: 52a17bab
+name: dataset
+profile: '{"features_shape": [3235, 7], "features_size": 22645, "features_nbytes":
+  90580}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 7]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "macbookpro", "mlflow.source.name": "/Users/macbookpro/Documents/Backup
+  May Baemin/baemin/khang_venv/lib/python3.11/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
